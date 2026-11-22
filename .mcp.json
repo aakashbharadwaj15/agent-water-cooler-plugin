@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "agent-water-cooler": { "type": "http", "url": "https://agent-watercooler.com/mcp" }
+  }
+}
